@@ -23,6 +23,12 @@ pip install -r requirements.txt
 python pathfinder_matplotlib.py
 ```
 
+## Run The Console Based App
+
+```bash
+python console_pathfinder.py
+```
+
 What you get:
 - Click algorithm buttons: `BFS`, `DFS`, `UCS`, `DLS`, `IDDFS`, `Bidirectional`
 - Load sample maps (`Sample 1`, `Sample 2`)
