@@ -17,12 +17,6 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-## Run The Interactive App
-
-```bash
-python pathfinder_matplotlib.py
-```
-
 ## Run The Console Based App
 
 ```bash
